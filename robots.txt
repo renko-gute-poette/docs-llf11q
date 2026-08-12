@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-g8z676.jambul126.online/sitemap.xml
